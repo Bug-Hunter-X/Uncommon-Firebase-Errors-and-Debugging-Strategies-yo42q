@@ -1,0 +1,2 @@
+# Uncommon Firebase Errors and Debugging Strategies
+This repository demonstrates some uncommon errors encountered when using the Firebase JavaScript SDK and provides solutions to address them.  The examples focus on issues related to invalid options, asynchronous operation handling, and incorrect data type usage. Each scenario includes a flawed implementation and a corrected version with detailed explanations.
